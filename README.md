@@ -5,4 +5,4 @@ Features:
 -Semantic structure for easy styling and extension
 -Organized code and intuitive layout
 
- Feel free to clone and customize it for your own restaurant idea!
+
